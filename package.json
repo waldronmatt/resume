@@ -1,0 +1,35 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "JSON Resume",
+  "main": "index.js",
+  "scripts": {
+    "serve": "resume serve --theme . --resume src/resume.json",
+    "build": "resume export --theme . ./public/index.html --resume src/resume.json",
+    "export": "resume export public/resume.pdf --theme . --resume src/resume-private.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waldronmatt/resume.git"
+  },
+  "keywords": [
+    "JSON",
+    "resume",
+    "resume"
+  ],
+  "author": "Matthew Waldron",
+  "license": "MIT (source code)",
+  "bugs": {
+    "url": "https://github.com/waldronmatt/resume/issues"
+  },
+  "homepage": "https://github.com/waldronmatt/resume#readme",
+  "dependencies": {
+    "css": "^3.0.0",
+    "handlebars": "^4.7.7",
+    "resume-cli": "^3.0.5"
+  },
+  "devDependencies": {
+    "@waldronmatt/prettier-config": "^1.1.3",
+    "prettier": "^2.5.1"
+  }
+}
