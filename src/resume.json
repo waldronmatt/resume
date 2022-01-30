@@ -17,7 +17,7 @@
       "company": "Cigna (now Evernorth)",
       "position": "Application Development Advisor",
       "website": "",
-      "startDate": "September 2020",
+      "startDate": "Sep. 2020",
       "endDate": "Present",
       "summary": "Core contributor of Cigna's redesign codebase. Developed web components and apps from UI mockups. Researched technical blockers and presented findings to scrum teams. Collaborated with stakeholders to align development with accessibility and design objectives.",
       "details": [
@@ -29,8 +29,8 @@
     {
       "company": "Cigna",
       "position": "Application Development Lead Analyst",
-      "startDate": "January 2019",
-      "endDate": "September 2020",
+      "startDate": "Jan. 2019",
+      "endDate": "Sep. 2020",
       "details": [
         { "text": "Automated claim data entry process by developing an online supplemental claim form." },
         { "text": "Developed and integrated a custom AWS Lambda API with our software to support search indexing for two sites and upgraded six sites' search pages using JavaScript and Sass." },
@@ -41,8 +41,8 @@
     {
       "company": "Cigna",
       "position": "Voice Engineer Analyst",
-      "startDate": "July 2017",
-      "endDate": "January 2019",
+      "startDate": "Jul. 2017",
+      "endDate": "Jan. 2019",
       "details": [
         { "text": "Managed department’s website migration. Developed filtering tools, designed pages, and collaborated with teams to reach agreements on content management strategies." },
         { "text": "Liaison for Incident Response teams. Triaged software issues to prevent disruptions to critical resolution processes." },
@@ -53,8 +53,8 @@
     {
       "company": "Cigna",
       "position": "Infrastructure Engineer Intern",
-      "startDate": "June 2016",
-      "endDate": "August 2016",
+      "startDate": "Jun. 2016",
+      "endDate": "Aug. 2016",
       "summary": "Analyzed power requirements and managed data center hardware deployments for contractors. Discovered and documented methods to use inventory management software more efficiently.",
       "details": [
         { "text": "Won first place with team members on the TECDP Internship Project. Presented a proof-of-concept mental health app." }
