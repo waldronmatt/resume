@@ -2,32 +2,36 @@
 
 ## Introduction
 
-My personal resume built on the [jsonresume](https://jsonresume.org/) project and rendered using a modified version of the [onepage](https://www.npmjs.com/package/jsonresume-theme-onepage) theme.
+My personal resume built using [jsonresume](https://jsonresume.org/) and a modified version of the [onepage](https://www.npmjs.com/package/jsonresume-theme-onepage) theme.
 
 ## Installation
 
 Install dependencies.
 
-        npm i
+```bash
+npm i
+```
 
-## Serve
+## Getting Started
 
 Serve resume using this project's theme for development builds.
 
-        npm run serve
+```bash
+npm run serve
+```
 
-Export resume as an `.html` using this project's theme for production builds.
+Export resume as an `.html` using this project's theme under `public/` for production builds (Netlify).
 
-        npm run build
+```bash
+npm run build
+```
 
-## Export
+Export resume as a `.pdf` named 'resume' under `public/`. (This uses an untracked local version of my resume.)
 
-Export resume as a `.pdf` named 'resume'. (This uses an untracked local version of my resume.)
-
-        npm run export
+```bash
+npm run export
+```
 
 ## License
 
-Source code: licensed under the [MIT license](https://opensource.org/licenses/mit-license.php).
-
-Resume Content: © Copyright 2022 Matthew Waldron. All rights reserved.
+MIT
