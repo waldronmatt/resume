@@ -1,6 +1,6 @@
-# Matthew Waldron's Resume
+# Resume
 
-## Introduction
+[![Netlify Status](https://api.netlify.com/api/v1/badges/074409fc-2758-4206-8095-6470521280b5/deploy-status)](https://app.netlify.com/sites/waldronmatthew/deploys)
 
 My personal resume built using [jsonresume](https://jsonresume.org/) and a modified version of the [onepage](https://www.npmjs.com/package/jsonresume-theme-onepage) theme.
 
