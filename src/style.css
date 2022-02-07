@@ -4,19 +4,24 @@ body {
   line-height: 1.4;
   margin: 40px 0;
 }
+
 em {
   color: #999;
 }
+
 p {
   line-height: 1.4;
   margin: 6px 0;
 }
+
 ul {
   margin-bottom: 0;
 }
+
 li {
   margin-bottom: 2px;
 }
+
 a {
   text-decoration: none;
 }
@@ -112,27 +117,34 @@ a {
     margin: 0;
     font-size: 14px;
   }
+
   #resume {
     margin: 0 auto;
     max-width: 600px;
     padding: 0.5em 1em;
     border: none;
   }
+
   .sectionBlock {
     flex-direction: column;
   }
+
   .sectionContent {
     width: 100%;
   }
+
   .sectionContent .date {
     padding-right: 2em;
   }
+
   .sectionName {
     width: auto;
   }
+
   .largeFont {
     font-size: 20px;
   }
+
   .smallFont {
     font-size: 14px;
   }
@@ -142,6 +154,7 @@ a {
   body {
     background: #FFFFFF;
   }
+
   #resume {
     margin: 0 auto;
     max-width: 600px;
