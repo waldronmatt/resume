@@ -14,7 +14,7 @@
   },
   "work": [
     {
-      "company": "Cigna (now Evernorth)",
+      "company": "Cigna",
       "position": "Application Development Advisor",
       "website": "",
       "startDate": "Sep. 2020",
@@ -22,13 +22,16 @@
       "summary": "Developed ADA-compliant web components and apps from UI mockups using Lit, TypeScript, and Sass. Collaborated with stakeholders to align development with accessibility and design objectives.",
       "details": [
         {
-          "text": "Increased component reusability by 20% by developing utilities using TypeScript to overcome encapsulation limitations."
+          "text": "Rebuilt the frontend and backend of Cigna's Supplemental Claim Form and added unit tests using Lit, TypeScript, AWS Lambda, AWS SES, AWS S3, and Jest."
+        },
+        {
+          "text": "Rebuilt the frontend of Cigna's Individuals and Families State Plan Finder and Search applications using Lit and TypeScript."
+        },
+        {
+          "text": "Increased component reusability over 20% by developing utilities using TypeScript to overcome encapsulation limitations."
         },
         {
           "text": "Researched and proposed a microservice architecture. Prototyped a demo modifying Webpack and Module Federation to support CI/CD requirements."
-        },
-        {
-          "text": "Developed an ADA-compliant form library using Lit, TypeScript, and Sass."
         },
         {
           "text": "Mentored junior developers in framework methodologies and helped troubleshoot issues."
