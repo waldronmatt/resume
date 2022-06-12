@@ -9,7 +9,7 @@ My [personal resume](https://matthew-waldron-resume.netlify.app) built using [js
 Install dependencies.
 
 ```bash
-npm i
+yarn
 ```
 
 ## Getting Started
@@ -17,19 +17,19 @@ npm i
 Serve resume using this project's theme for development builds.
 
 ```bash
-npm run serve
+yarn serve
 ```
 
 Export resume as an `.html` using this project's theme under `public/` for production builds (Netlify).
 
 ```bash
-npm run build
+yarn build
 ```
 
 Export resume as a `.pdf` named 'resume' under `public/`. (This uses an untracked local version of my resume.)
 
 ```bash
-npm run export
+yarn export
 ```
 
 ## License
