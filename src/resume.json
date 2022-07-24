@@ -19,22 +19,19 @@
       "website": "",
       "startDate": "Sep. 2020",
       "endDate": "Present",
-      "summary": "Developed ADA-compliant web components and apps from UI mockups using Lit, TypeScript, and Sass. Collaborated with stakeholders to align development with accessibility and design objectives.",
+      "summary": "Lead developer for the 2022 Cigna.com Redesign working on web components and apps used in site-wide initiatives including Medicare, Open Enrollment, and Plan Finder. Collaborated with stakeholders, scrum teams, and leads to align development with accessibility and design objectives. Development efforts resulted in a 67% reduction of accessibility issues and a 7% increase in site performance.",
       "details": [
         {
-          "text": "Rebuilt the frontend and backend of Cigna's Supplemental Claim Form and added unit tests using Lit, TypeScript, AWS Lambda, AWS SES, AWS S3, and Jest."
+          "text": "Rebuilt the frontend and backend of Cigna's Supplemental Claim Form using Lit, TypeScript, AWS Lambda, AWS SES, AWS S3, and Jest."
         },
         {
           "text": "Rebuilt the frontend of Cigna's Individuals and Families State Plan Finder and Search applications using Lit and TypeScript."
         },
         {
-          "text": "Increased component reusability over 20% by developing utilities using TypeScript to overcome encapsulation limitations."
+          "text": "Increased component reusability over 20% by developing utilities leveraging open web standards to overcome encapsulation limitations."
         },
         {
-          "text": "Researched and proposed a microservice architecture. Prototyped a demo modifying Webpack and Module Federation to support CI/CD requirements."
-        },
-        {
-          "text": "Mentored junior developers in framework methodologies and helped troubleshoot issues."
+          "text": "Mentored junior developers in our tech stack and supported them through the debugging process."
         }
       ]
     },
@@ -83,7 +80,7 @@
       "position": "Infrastructure Engineer Intern",
       "startDate": "Jun. 2016",
       "endDate": "Aug. 2016",
-      "summary": "Analyzed power requirements and managed data center hardware deployments for contractors.",
+      "summary": "Analyzed power requirements and supervised data center hardware deployments for contractors.",
       "details": [
         {
           "text": "Won 1st place with team on the TECDP Group Project. Presented concepts for a mental health app."
