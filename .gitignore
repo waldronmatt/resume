@@ -144,3 +144,7 @@ build/
 
 # Jest folder of detailed test coverage
 coverage/
+
+# exported .pdf and .html resume files
+**/**.html
+**/**.pdf
