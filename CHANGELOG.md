@@ -1,9 +1,15 @@
-## [1.0.3](https://github.com/waldronmatt/resume/compare/v1.0.2...v1.0.3) (2022-10-10)
+## [1.0.4](https://github.com/waldronmatt/resume/compare/v1.0.3...v1.0.4) (2022-10-10)
 
 
 ### Bug Fixes
 
-* **src:** fix accessibility and seo issues ([8552e39](https://github.com/waldronmatt/resume/commit/8552e39bb8002eeb276b923b056d827c551471eb))
+* **resume.json:** add linkedin link, update link titles ([83815bc](https://github.com/waldronmatt/resume/commit/83815bcc8e83e3cad98377c2b3e7bc595930a063))
+
+## [1.0.3](https://github.com/waldronmatt/resume/compare/v1.0.2...v1.0.3) (2022-10-10)
+
+### Bug Fixes
+
+- **src:** fix accessibility and seo issues ([8552e39](https://github.com/waldronmatt/resume/commit/8552e39bb8002eeb276b923b056d827c551471eb))
 
 ## [1.0.2](https://github.com/waldronmatt/resume/compare/v1.0.1...v1.0.2) (2022-10-10)
 
