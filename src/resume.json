@@ -2,9 +2,7 @@
   "basics": {
     "name": "Matthew Waldron",
     "label": "Front-end Developer",
-    "picture": "",
     "email": "contact@waldronmatthew.com",
-    "website": "https://www.waldronmatthew.com",
     "summary": "",
     "location": {
       "city": "Greater Hartford, CT",
@@ -12,8 +10,12 @@
     },
     "profiles": [
       {
-        "network": "https://www.waldronmatthew.com",
+        "network": "Website",
         "url": "https://www.waldronmatthew.com"
+      },
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/waldronmatt"
       }
     ]
   },
