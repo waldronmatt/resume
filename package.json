@@ -4,7 +4,7 @@
   "description": "The code for my resume.",
   "main": "index.js",
   "scripts": {
-    "serve": "resume serve --theme . --resume src/resume.json",
+    "dev": "resume serve --theme . --resume src/resume.json",
     "build": "resume export --theme . ./public/index.html --resume src/resume.json",
     "export": "resume export public/resume.pdf --theme . --resume src/resume.json",
     "bootstrap:ci": "yarn install --frozen-lockfile --ignore-engines",

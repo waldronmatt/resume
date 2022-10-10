@@ -31,7 +31,7 @@ Install `yamllint` and `actionlint`.
 Serve resume using this project's theme for development builds.
 
 ```bash
-yarn serve
+yarn dev
 ```
 
 Export resume as an `.html` using this project's theme under `public/` for production builds (Netlify).
