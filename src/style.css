@@ -43,6 +43,7 @@ a {
 }
 
 .largeFont {
+  all: unset;
   font-size: 20px;
 }
 
@@ -142,6 +143,7 @@ a {
   }
 
   .largeFont {
+    all: unset;
     font-size: 20px;
   }
 

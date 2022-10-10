@@ -1,9 +1,11 @@
 <!doctype html>
-<html>
+<html lang="en">
 	<head>
 
 	<meta charset='utf-8'>
-	<meta name='viewport' content='width=device-width, user-scalable=no, minimal-ui'>
+  <meta name='viewport' content='width=device-width'>
+  <meta name="description" content="Matthew Waldron Resume">
+  <meta name="keywords" content="resume">
   <link rel="icon" href="/favicon.png">
 
 	<title>{{resume.basics.name}}</title>
@@ -16,15 +18,16 @@
 	<body>
 
 	<div id='resume'>
+  <header>
 	{{#resume.basics}}
-  <div id='nameBlock' class='largeFont'>
+  <h1 id='nameBlock' class='largeFont'>
     <span class='name'>
       {{name}}{{#if label}},{{/if}}
     </span>
     {{#if label}}
     <span class='label'>{{label}}</span>
     {{/if}}
-  </div>
+  </h1>
   <div id='basicsBlock' class='smallFont'>
     <div class='contactBlock'>
       {{#if email}}
@@ -56,7 +59,9 @@
   </div>
   <div class='sectionLine'></div>
 	{{/resume.basics}}
+  </header>
 
+  <main>
   {{#if resume.basics.summary}}
   <div id='summaryBlock' class="sectionBlock">
     <div class='sectionName'>
@@ -87,7 +92,11 @@
 	        </span>
 	        {{/if}}
 	      </div>
-	      <div><a href='{{website}}'>{{website}}</a></div>
+        {{#if website.length}}
+          <div>
+            <a href='{{website}}'>{{website}}</a>
+          </div>
+        {{/if}}
 	      {{#if highlights.length}}
 	        {{#each highlights}}
 	        <p>{{.}}</p>
@@ -347,6 +356,7 @@
     <div class='sectionLine'></div>
 	</div>
   {{/if}}
+  </main>
 
 	</body>
 </html>
