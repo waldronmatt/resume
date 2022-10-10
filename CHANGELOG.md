@@ -1,9 +1,15 @@
-## [1.0.2](https://github.com/waldronmatt/resume/compare/v1.0.1...v1.0.2) (2022-10-10)
+## [1.0.3](https://github.com/waldronmatt/resume/compare/v1.0.2...v1.0.3) (2022-10-10)
 
 
 ### Bug Fixes
 
-* **package.json:** rename yarn serve cmd to yarn dev ([c62c13a](https://github.com/waldronmatt/resume/commit/c62c13a2b1c8a5528214836c4592e6c9f0d34add))
+* **src:** fix accessibility and seo issues ([8552e39](https://github.com/waldronmatt/resume/commit/8552e39bb8002eeb276b923b056d827c551471eb))
+
+## [1.0.2](https://github.com/waldronmatt/resume/compare/v1.0.1...v1.0.2) (2022-10-10)
+
+### Bug Fixes
+
+- **package.json:** rename yarn serve cmd to yarn dev ([c62c13a](https://github.com/waldronmatt/resume/commit/c62c13a2b1c8a5528214836c4592e6c9f0d34add))
 
 ## [1.0.1](https://github.com/waldronmatt/resume/compare/v1.0.0...v1.0.1) (2022-10-09)
 
