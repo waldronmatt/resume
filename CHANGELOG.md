@@ -1,9 +1,15 @@
-## [1.0.1](https://github.com/waldronmatt/resume/compare/v1.0.0...v1.0.1) (2022-10-09)
+## [1.0.2](https://github.com/waldronmatt/resume/compare/v1.0.1...v1.0.2) (2022-10-10)
 
 
 ### Bug Fixes
 
-* **readme.md:** fix netlify badge ([0b8e166](https://github.com/waldronmatt/resume/commit/0b8e1661bf7ceb97828e8e7d8734c7a0208f2875))
+* **package.json:** rename yarn serve cmd to yarn dev ([c62c13a](https://github.com/waldronmatt/resume/commit/c62c13a2b1c8a5528214836c4592e6c9f0d34add))
+
+## [1.0.1](https://github.com/waldronmatt/resume/compare/v1.0.0...v1.0.1) (2022-10-09)
+
+### Bug Fixes
+
+- **readme.md:** fix netlify badge ([0b8e166](https://github.com/waldronmatt/resume/commit/0b8e1661bf7ceb97828e8e7d8734c7a0208f2875))
 
 # 1.0.0 (2022-10-09)
 
