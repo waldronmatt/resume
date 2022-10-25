@@ -40,6 +40,8 @@ Export resume as an `.html` using this project's theme under `public/` for produ
 yarn build
 ```
 
+**Note:** Configure script in Netlify to auto-run via push to `main` branch.
+
 Export resume as a `.pdf` named 'resume' under `public/`.
 
 ```bash
