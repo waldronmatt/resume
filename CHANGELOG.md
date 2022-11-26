@@ -1,9 +1,16 @@
-## [1.0.4](https://github.com/waldronmatt/resume/compare/v1.0.3...v1.0.4) (2022-10-10)
+## [1.0.5](https://github.com/waldronmatt/resume/compare/v1.0.4...v1.0.5) (2022-11-26)
 
 
 ### Bug Fixes
 
-* **resume.json:** add linkedin link, update link titles ([83815bc](https://github.com/waldronmatt/resume/commit/83815bcc8e83e3cad98377c2b3e7bc595930a063))
+* **global:** remove/update configs ([f817655](https://github.com/waldronmatt/resume/commit/f8176551e83eb22a8b7308d41a51b8057366a8cc))
+* **package.json:** remove secretlint linting script ([afce946](https://github.com/waldronmatt/resume/commit/afce946b70dd118aadd5de3245b4024f4cc371b0))
+
+## [1.0.4](https://github.com/waldronmatt/resume/compare/v1.0.3...v1.0.4) (2022-10-10)
+
+### Bug Fixes
+
+- **resume.json:** add linkedin link, update link titles ([83815bc](https://github.com/waldronmatt/resume/commit/83815bcc8e83e3cad98377c2b3e7bc595930a063))
 
 ## [1.0.3](https://github.com/waldronmatt/resume/compare/v1.0.2...v1.0.3) (2022-10-10)
 
