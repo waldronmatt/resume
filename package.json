@@ -9,8 +9,7 @@
     "export": "resume export public/resume.pdf --theme . --resume src/resume.json",
     "bootstrap:ci": "yarn install --frozen-lockfile --ignore-engines",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lint": "yarn lint:secrets && yarn lint:prettier",
-    "lint:secrets": "npx secretlint **/*",
+    "lint": "yarn lint:prettier",
     "lint:prettier": "prettier --write .",
     "prepare": "husky install",
     "commit": "git-cz"
