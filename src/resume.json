@@ -4,10 +4,6 @@
     "label": "Front-end Developer",
     "email": "contact@waldronmatthew.com",
     "summary": "",
-    "location": {
-      "city": "Greater Hartford, CT",
-      "countryCode": "US"
-    },
     "profiles": [
       {
         "network": "Website",
@@ -26,16 +22,16 @@
       "website": "",
       "startDate": "Sep. 2020",
       "endDate": "Present",
-      "summary": "Lead developer for the 2022 Cigna.com Redesign working on web components and apps used in site-wide initiatives, including Medicare, Open Enrollment, and Plan Finder. Development efforts resulted in a 38% increase of traffic to the shopping experience and a 67% reduction of accessibility issues.",
+      "summary": "Lead developer for the 2022 Cigna.com Redesign developing web components and apps used in site-wide initiatives, including Medicare, Open Enrollment, and Plan Finder. Development efforts resulted in a 38% increase of traffic to the shopping experience and a 67% reduction of accessibility issues.",
       "details": [
         {
-          "text": "Rebuilt the frontend and backend of Cigna's Supplemental Claim Form using Lit, TypeScript, AWS Lambda, AWS SES, AWS S3, and Jest."
+          "text": "Rebuilt Cigna's Supplemental Claim Form, State/County Plan Finder, myCigna Login, and Cigna.com Search from jQuery and Perl to Lit, TypeScript, AWS Lambda, SES, S3, and Jest."
         },
         {
-          "text": "Rebuilt the frontend of Cigna's Individuals and Families State Plan Finder and Search applications using Lit and TypeScript."
+          "text": "Created a CI/CD pipeline for repo/monorepo versioning and publishing enabling code reusability and automated version tracking across projects."
         },
         {
-          "text": "Increased component reusability by 47% by developing utilities leveraging existing frameworks and web standards to overcome encapsulation limitations."
+          "text": "Increased component library reusability by 47% by using web standards to overcome encapsulation limitations."
         },
         {
           "text": "Mentored junior developers in our tech stack and supported them through the debugging process."
@@ -49,13 +45,13 @@
       "endDate": "Sep. 2020",
       "details": [
         {
-          "text": "Automated data entry process by developing a claim form using JavaScript and Sass."
+          "text": "Automated the medical data entry process by developing a claim form app that gives customers the option to file online using JavaScript/jQuery."
         },
         {
-          "text": "Developed an AWS Lambda API to support search indexing for two sites using JavaScript."
+          "text": "Integrated department's custom elasticsearch wrapper into 7 sites for improved UI and search results using Sass and JavaScript. Developed a Lambda integration to support private indexing for 2 internal sites."
         },
         {
-          "text": "Refactored department’s file search utility from Perl to Node.js to improve code maintainability."
+          "text": "Refactored department’s file search app from Perl to Node.js for improved code maintainability."
         },
         {
           "text": "Oversaw strategic direction, managed budgets, and conducted interviews for networking positions across six offices for the Technology Early Career Program (TECDP)."
@@ -69,10 +65,13 @@
       "endDate": "Jan. 2019",
       "details": [
         {
-          "text": "Managed department’s website migration. Developed filtering tools, designed pages, and collaborated with teams on content management strategies."
+          "text": "Managed department’s website migration. Developed filtering tools, designed pages, and collaborated with departments on content management strategies."
         },
         {
           "text": "Liaison for Incident Response teams. Triaged software upgrade issues to prevent disruptions to critical resolution processes."
+        },
+        {
+          "text": "Transformed conferencing data into population and historical usage metrics used by the department to make decisions on funding allocations."
         },
         {
           "text": "Resolved over 2,000 emails in 7 months for conferencing software. Hosted 80 support meetings and 15 training sessions for hundreds of employees."
@@ -87,10 +86,10 @@
       "position": "Infrastructure Engineer Intern",
       "startDate": "Jun. 2016",
       "endDate": "Aug. 2016",
-      "summary": "Analyzed power requirements and supervised data center hardware deployments for contractors.",
+      "summary": "Analyzed power requirements, deployed hardware, and supervised data center infrastructure deployments for contractors.",
       "details": [
         {
-          "text": "Won 1st place with team on the TECDP Group Project. Presented concepts for a mental health app."
+          "text": "Won 1st place with a team on the TECDP Intern Project. Presented a prototype for a mental health app."
         }
       ]
     }
@@ -99,16 +98,13 @@
     {
       "institution": "Central Connecticut State University",
       "area": "Networking Information Technology",
-      "studyType": "Bachelor of Science",
-      "startDate": "2015",
-      "endDate": "2017"
+      "subarea": "Minor in Management Information Systems",
+      "studyType": "Bachelor of Science"
     },
     {
       "institution": "Northwestern Connecticut Community College",
       "area": "Computer Systems Technology",
-      "studyType": "Associate of Science",
-      "startDate": "2012",
-      "endDate": "2014"
+      "studyType": "Associate of Science"
     }
   ],
   "certificates": [
@@ -122,8 +118,8 @@
     {
       "name": "Daily Experience",
       "details": [
-        { "text": "JavasScript (ES6+)" },
         { "text": "TypeScript" },
+        { "text": "JavaScript" },
         { "text": "Sass/CSS" },
         { "text": "HTML" },
         { "text": "Lit" },
