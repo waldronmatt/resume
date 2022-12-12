@@ -1,10 +1,16 @@
-## [1.0.5](https://github.com/waldronmatt/resume/compare/v1.0.4...v1.0.5) (2022-11-26)
+# [1.1.0](https://github.com/waldronmatt/resume/compare/v1.0.5...v1.1.0) (2022-12-12)
 
+
+### Features
+
+* **global:** add minor for degree support, update resume ([5e8aa2e](https://github.com/waldronmatt/resume/commit/5e8aa2ec20a9ede03af775402d2077beddebb6e1))
+
+## [1.0.5](https://github.com/waldronmatt/resume/compare/v1.0.4...v1.0.5) (2022-11-26)
 
 ### Bug Fixes
 
-* **global:** remove/update configs ([f817655](https://github.com/waldronmatt/resume/commit/f8176551e83eb22a8b7308d41a51b8057366a8cc))
-* **package.json:** remove secretlint linting script ([afce946](https://github.com/waldronmatt/resume/commit/afce946b70dd118aadd5de3245b4024f4cc371b0))
+- **global:** remove/update configs ([f817655](https://github.com/waldronmatt/resume/commit/f8176551e83eb22a8b7308d41a51b8057366a8cc))
+- **package.json:** remove secretlint linting script ([afce946](https://github.com/waldronmatt/resume/commit/afce946b70dd118aadd5de3245b4024f4cc371b0))
 
 ## [1.0.4](https://github.com/waldronmatt/resume/compare/v1.0.3...v1.0.4) (2022-10-10)
 
