@@ -146,11 +146,6 @@ a {
     width: auto;
   }
 
-  .blockHeader {
-    display: flex;
-    flex-direction: column;
-  }
-
   .largeFont {
     all: unset;
     font-size: 20px;

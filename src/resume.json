@@ -6,12 +6,12 @@
     "summary": "",
     "profiles": [
       {
-        "network": "Website",
-        "url": "https://www.waldronmatthew.com"
-      },
-      {
         "network": "LinkedIn",
         "url": "https://www.linkedin.com/in/waldronmatt"
+      },
+      {
+        "network": "Website",
+        "url": "https://www.waldronmatthew.com"
       }
     ]
   },
@@ -80,25 +80,13 @@
           "text": "Organized 30 events for TECDP colleagues to meet with peers, mentors, and leadership."
         }
       ]
-    },
-    {
-      "company": "Cigna",
-      "position": "Infrastructure Engineer Intern",
-      "startDate": "Jun. 2016",
-      "endDate": "Aug. 2016",
-      "summary": "Analyzed power requirements, deployed hardware, and supervised data center infrastructure deployments for contractors.",
-      "details": [
-        {
-          "text": "Won 1st place with a team on the TECDP Intern Project. Presented a prototype for a mental health app."
-        }
-      ]
     }
   ],
   "education": [
     {
       "institution": "Central Connecticut State University",
       "area": "Networking Information Technology",
-      "subarea": "Minor in Management Information Systems",
+      "subarea": "Minor in MIS",
       "studyType": "Bachelor of Science"
     },
     {

@@ -29,23 +29,22 @@
     {{/if}}
   </h1>
   <div id='basicsBlock' class='smallFont'>
-    <div class='contactBlock'>
-      {{#if email}}
-      <a class='email' href="mailto:contact@waldronmatthew.com">{{email}}</a>
-      {{/if}}
-      {{#if phone}}
-      <span class='divider'>|</span>
-      <span class='phone'>{{phone}}</span>
-      {{/if}}
-      {{#location}}
-        <span class='divider'>|</span>
-        <span class='address'>
-          {{#if city}}{{city}}{{/if}}{{#if region}}, {{region}}{{/if}}{{#if countryCode}}, {{countryCode}}{{/if}}
-        </span>
-      {{/location}}
-    </div>
-    {{#if profiles.length}}
-      <div id='profilesBlock'>
+    <div id='profilesBlock'>
+      {{#if profiles.length}}
+        {{#if email}}
+          <a class='email' href="mailto:contact@waldronmatthew.com">{{email}}</a>
+          <span class='divider'>|</span>
+        {{/if}}
+        {{#if phone}}
+          <span class='phone'>{{phone}}</span>
+          <span class='divider'>|</span>
+        {{/if}}
+        {{#location}}
+          <span class='address'>
+            {{#if city}}{{city}}{{/if}}{{#if region}}, {{region}}{{/if}}{{#if countryCode}}, {{countryCode}}{{/if}}
+          </span>
+          <span class='divider'>|</span>
+        {{/location}}
         {{#each profiles}}
           {{#if url}}
             <span class='url'>
@@ -53,9 +52,9 @@
             </span>
             {{#unless @last}}<span class='divider'>|</span>{{/unless}}
           {{/if}}
-      {{/each}}
-      </div>
-    {{/if}}
+        {{/each}}
+      {{/if}}
+    </div>
   </div>
   <div class='sectionLine'></div>
 	{{/resume.basics}}
@@ -154,7 +153,7 @@
 	{{/if}}
 
   {{#if resume.certificates.length}}
-  <div id='certifications'>
+  <div id='certifications' class="sectionBlock">
     <div class='sectionName'>
         <span>CERTIFICATES</span>
     </div>
@@ -269,10 +268,7 @@
         </span>
         {{/if}}
         <div class=''>
-          {{#if studyType}}{{studyType}} {{/if}} - {{#if area}}{{area}}{{/if}}{{#if gpa}}, GPA: {{gpa}}{{/if}}
-        </div>
-        <div class=''>
-          {{#if subarea}}{{subarea}}{{/if}}
+          {{#if studyType}}{{studyType}} {{/if}} in {{#if area}}{{area}}{{/if}}, {{#if subarea}}{{subarea}}{{/if}}{{#if gpa}}, GPA: {{gpa}}{{/if}}
         </div>
         {{#if courses.length}}
         <div id='coursesBlock'>
