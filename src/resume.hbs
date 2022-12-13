@@ -30,21 +30,21 @@
   </h1>
   <div id='basicsBlock' class='smallFont'>
     <div id='profilesBlock'>
+      {{#if email}}
+        <a class='email' href="mailto:contact@waldronmatthew.com">{{email}}</a>
+        <span class='divider'>|</span>
+      {{/if}}
+      {{#if phone}}
+        <span class='phone'>{{phone}}</span>
+        <span class='divider'>|</span>
+      {{/if}}
+      {{#location}}
+        <span class='address'>
+          {{#if city}}{{city}}{{/if}}{{#if region}}, {{region}}{{/if}}{{#if countryCode}}, {{countryCode}}{{/if}}
+        </span>
+        <span class='divider'>|</span>
+      {{/location}}
       {{#if profiles.length}}
-        {{#if email}}
-          <a class='email' href="mailto:contact@waldronmatthew.com">{{email}}</a>
-          <span class='divider'>|</span>
-        {{/if}}
-        {{#if phone}}
-          <span class='phone'>{{phone}}</span>
-          <span class='divider'>|</span>
-        {{/if}}
-        {{#location}}
-          <span class='address'>
-            {{#if city}}{{city}}{{/if}}{{#if region}}, {{region}}{{/if}}{{#if countryCode}}, {{countryCode}}{{/if}}
-          </span>
-          <span class='divider'>|</span>
-        {{/location}}
         {{#each profiles}}
           {{#if url}}
             <span class='url'>
@@ -268,7 +268,7 @@
         </span>
         {{/if}}
         <div class=''>
-          {{#if studyType}}{{studyType}} {{/if}} in {{#if area}}{{area}}{{/if}}, {{#if subarea}}{{subarea}}{{/if}}{{#if gpa}}, GPA: {{gpa}}{{/if}}
+          {{#if studyType}}{{studyType}} {{/if}} in {{#if area}}{{area}}{{/if}}{{#if subarea}}, {{subarea}}{{/if}}{{#if gpa}}, GPA: {{gpa}}{{/if}}
         </div>
         {{#if courses.length}}
         <div id='coursesBlock'>
