@@ -3,7 +3,6 @@
     "name": "Matthew Waldron",
     "label": "Front-end Developer",
     "email": "contact@waldronmatthew.com",
-    "summary": "",
     "profiles": [
       {
         "network": "LinkedIn",
@@ -22,7 +21,7 @@
       "website": "",
       "startDate": "Sep. 2020",
       "endDate": "Present",
-      "summary": "Lead developer for the 2022 Cigna.com Redesign developing web components and apps used in site-wide initiatives serving millions of visitors, including Medicare, Open Enrollment, and Plan Finder. Development efforts resulted in a 38% increase of traffic to the shopping experience and a 67% reduction of accessibility issues.",
+      "summary": "Lead developer for the 2022 Cigna.com Redesign developing web components and apps used in site-wide initiatives serving millions of visitors including Medicare, Open Enrollment, and Plan Finder. Development efforts resulted in a 38% increase of traffic to the shopping experience and a 67% reduction of accessibility issues.",
       "details": [
         {
           "text": "Rebuilt several applications on cigna.com from JavaScript/jQuery and Perl to Lit, TypeScript, AWS Lambda, SES, S3, and Jest."
@@ -80,6 +79,18 @@
           "text": "Organized 30 events for TECDP colleagues to meet with peers, mentors, and leadership."
         }
       ]
+    },
+    {
+      "company": "Cigna",
+      "position": "Infrastructure Engineer Intern",
+      "startDate": "Jun. 2016",
+      "endDate": "Aug. 2016",
+      "summary": "Analyzed power requirements, deployed hardware, and supervised data center infrastructure deployments for contractors.",
+      "details": [
+        {
+          "text": "Won 1st place with a team on the TECDP Intern Project. Presented a prototype for a mental health app."
+        }
+      ]
     }
   ],
   "education": [
@@ -97,9 +108,8 @@
   ],
   "certificates": [
     {
-      "name": "Certified Cloud Practitioner",
-      "date": "2021",
-      "issuer": "Amazon Web Services (AWS)"
+      "name": "AWS Certified Cloud Practitioner",
+      "date": "2021"
     }
   ],
   "skills": [
