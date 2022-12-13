@@ -22,19 +22,19 @@
       "website": "",
       "startDate": "Sep. 2020",
       "endDate": "Present",
-      "summary": "Lead developer for the 2022 Cigna.com Redesign developing web components and apps used in site-wide initiatives, including Medicare, Open Enrollment, and Plan Finder. Development efforts resulted in a 38% increase of traffic to the shopping experience and a 67% reduction of accessibility issues.",
+      "summary": "Lead developer for the 2022 Cigna.com Redesign developing web components and apps used in site-wide initiatives serving millions of visitors, including Medicare, Open Enrollment, and Plan Finder. Development efforts resulted in a 38% increase of traffic to the shopping experience and a 67% reduction of accessibility issues.",
       "details": [
         {
-          "text": "Rebuilt Cigna's Supplemental Claim Form, State/County Plan Finder, myCigna Login, and Cigna.com Search from jQuery and Perl to Lit, TypeScript, AWS Lambda, SES, S3, and Jest."
+          "text": "Rebuilt several applications on cigna.com from JavaScript/jQuery and Perl to Lit, TypeScript, AWS Lambda, SES, S3, and Jest."
         },
         {
-          "text": "Created a CI/CD pipeline for repo/monorepo versioning and publishing enabling code reusability and automated version tracking across projects."
+          "text": "Created a CI/CD pipeline for repo/monorepo publishing and versioning enabling code reusability and automated version tracking across projects."
         },
         {
           "text": "Increased component library reusability by 47% by using web standards to overcome encapsulation limitations."
         },
         {
-          "text": "Mentored junior developers in our tech stack and supported them through the debugging process."
+          "text": "Mentored junior developers in our tech stack and hosted education training sessions for scrum teams."
         }
       ]
     },
@@ -54,7 +54,7 @@
           "text": "Refactored department’s file search app from Perl to Node.js for improved code maintainability."
         },
         {
-          "text": "Oversaw strategic direction, managed budgets, and conducted interviews for networking positions across six offices for the Technology Early Career Program (TECDP)."
+          "text": "Oversaw strategic direction, managed budgets, and conducted interviews for networking positions across 6 offices for the Technology Early Career Program (TECDP)."
         }
       ]
     },
@@ -109,7 +109,7 @@
   ],
   "certificates": [
     {
-      "name": "AWS Certified Cloud Practitioner",
+      "name": "Certified Cloud Practitioner",
       "date": "2021",
       "issuer": "Amazon Web Services (AWS)"
     }
@@ -120,9 +120,9 @@
       "details": [
         { "text": "TypeScript" },
         { "text": "JavaScript" },
+        { "text": "Lit" },
         { "text": "Sass/CSS" },
         { "text": "HTML" },
-        { "text": "Lit" },
         { "text": "Webpack" },
         { "text": "Git" }
       ]
