@@ -126,6 +126,10 @@ a {
     border: none;
   }
 
+  .email {
+    word-break: break-all;
+  }
+
   .sectionBlock {
     flex-direction: column;
   }
@@ -140,6 +144,11 @@ a {
 
   .sectionName {
     width: auto;
+  }
+
+  .blockHeader {
+    display: flex;
+    flex-direction: column;
   }
 
   .largeFont {
