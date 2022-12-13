@@ -1,11 +1,17 @@
-## [1.1.1](https://github.com/waldronmatt/resume/compare/v1.1.0...v1.1.1) (2022-12-13)
+## [1.1.2](https://github.com/waldronmatt/resume/compare/v1.1.1...v1.1.2) (2022-12-13)
 
 
 ### Bug Fixes
 
-* **resume.hbs:** add link support for email ([69b12a6](https://github.com/waldronmatt/resume/commit/69b12a6be9523af20e1e4992b0f6c909c670fe16))
-* **resume.json:** update recent job bullets and cert ([e6da784](https://github.com/waldronmatt/resume/commit/e6da784093d6660c87419bb36cc84ba2b44e8e2b))
-* **style.css:** fix text layout squeezed on mobile ([e6f5729](https://github.com/waldronmatt/resume/commit/e6f57298c28379a2c801d7ac90c7207df1bab353))
+* **global:** revert styling columns on mobile, move profile section to same line ([6a17c71](https://github.com/waldronmatt/resume/commit/6a17c710924a820d3e1ef9c766e88020b25b980a))
+
+## [1.1.1](https://github.com/waldronmatt/resume/compare/v1.1.0...v1.1.1) (2022-12-13)
+
+### Bug Fixes
+
+- **resume.hbs:** add link support for email ([69b12a6](https://github.com/waldronmatt/resume/commit/69b12a6be9523af20e1e4992b0f6c909c670fe16))
+- **resume.json:** update recent job bullets and cert ([e6da784](https://github.com/waldronmatt/resume/commit/e6da784093d6660c87419bb36cc84ba2b44e8e2b))
+- **style.css:** fix text layout squeezed on mobile ([e6f5729](https://github.com/waldronmatt/resume/commit/e6f57298c28379a2c801d7ac90c7207df1bab353))
 
 # [1.1.0](https://github.com/waldronmatt/resume/compare/v1.0.5...v1.1.0) (2022-12-12)
 
