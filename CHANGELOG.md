@@ -1,10 +1,16 @@
-## [1.1.3](https://github.com/waldronmatt/resume/compare/v1.1.2...v1.1.3) (2022-12-13)
+## [1.1.4](https://github.com/waldronmatt/resume/compare/v1.1.3...v1.1.4) (2022-12-16)
 
 
 ### Bug Fixes
 
-* **resume.hbs:** fix profiles if block, fix education comma ([5dede48](https://github.com/waldronmatt/resume/commit/5dede48a1980598a4b88379603c04081a874f639))
-* **resume.json:** add back in intern section, minor tweaks ([c98252c](https://github.com/waldronmatt/resume/commit/c98252c8db4dbb1ef0d6d8dd53294bb54fa91556))
+* **resume.json:** minor wording updates ([a4a8bd3](https://github.com/waldronmatt/resume/commit/a4a8bd317f08cc9900d585f1962304e71f362cc8))
+
+## [1.1.3](https://github.com/waldronmatt/resume/compare/v1.1.2...v1.1.3) (2022-12-13)
+
+### Bug Fixes
+
+- **resume.hbs:** fix profiles if block, fix education comma ([5dede48](https://github.com/waldronmatt/resume/commit/5dede48a1980598a4b88379603c04081a874f639))
+- **resume.json:** add back in intern section, minor tweaks ([c98252c](https://github.com/waldronmatt/resume/commit/c98252c8db4dbb1ef0d6d8dd53294bb54fa91556))
 
 ## [1.1.2](https://github.com/waldronmatt/resume/compare/v1.1.1...v1.1.2) (2022-12-13)
 
