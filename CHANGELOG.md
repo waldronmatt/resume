@@ -1,9 +1,15 @@
-## [1.1.6](https://github.com/waldronmatt/resume/compare/v1.1.5...v1.1.6) (2022-12-20)
+## [1.1.7](https://github.com/waldronmatt/resume/compare/v1.1.6...v1.1.7) (2022-12-20)
 
 
 ### Bug Fixes
 
-* **global:** tweaks, revert cmd updates, commit pdf due to font type diff in browser ([96ce1a5](https://github.com/waldronmatt/resume/commit/96ce1a596f780e978bf5dcb6307f8e8d2edca150))
+* **resume.hbs:** add noopener noreferrer to links ([cc46c05](https://github.com/waldronmatt/resume/commit/cc46c05a027af7b746dcf53a8e8eb890ab9f53f4))
+
+## [1.1.6](https://github.com/waldronmatt/resume/compare/v1.1.5...v1.1.6) (2022-12-20)
+
+### Bug Fixes
+
+- **global:** tweaks, revert cmd updates, commit pdf due to font type diff in browser ([96ce1a5](https://github.com/waldronmatt/resume/commit/96ce1a596f780e978bf5dcb6307f8e8d2edca150))
 
 ## [1.1.5](https://github.com/waldronmatt/resume/compare/v1.1.4...v1.1.5) (2022-12-20)
 
