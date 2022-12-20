@@ -1,9 +1,15 @@
-## [1.1.7](https://github.com/waldronmatt/resume/compare/v1.1.6...v1.1.7) (2022-12-20)
+## [1.1.8](https://github.com/waldronmatt/resume/compare/v1.1.7...v1.1.8) (2022-12-20)
 
 
 ### Bug Fixes
 
-* **resume.hbs:** add noopener noreferrer to links ([cc46c05](https://github.com/waldronmatt/resume/commit/cc46c05a027af7b746dcf53a8e8eb890ab9f53f4))
+* **style.css:** prevent font scaling in ios landscape ([f329cc5](https://github.com/waldronmatt/resume/commit/f329cc5c2ca3feabaf65f77771106764ef3b592e))
+
+## [1.1.7](https://github.com/waldronmatt/resume/compare/v1.1.6...v1.1.7) (2022-12-20)
+
+### Bug Fixes
+
+- **resume.hbs:** add noopener noreferrer to links ([cc46c05](https://github.com/waldronmatt/resume/commit/cc46c05a027af7b746dcf53a8e8eb890ab9f53f4))
 
 ## [1.1.6](https://github.com/waldronmatt/resume/compare/v1.1.5...v1.1.6) (2022-12-20)
 
