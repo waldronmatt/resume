@@ -1,14 +1,20 @@
-## [1.1.5](https://github.com/waldronmatt/resume/compare/v1.1.4...v1.1.5) (2022-12-20)
+## [1.1.6](https://github.com/waldronmatt/resume/compare/v1.1.5...v1.1.6) (2022-12-20)
 
 
 ### Bug Fixes
 
-* **global:** add page break for resume pdf, open links in new tab, add resume download ([1e8ecfc](https://github.com/waldronmatt/resume/commit/1e8ecfc559d10d340a2808a49ca5a60b287c4919))
-* **global:** comment out unused sections for readability ([2ef84ab](https://github.com/waldronmatt/resume/commit/2ef84ab2c96d35591c50cd9e6c45a7f449b8b4bd))
-* **global:** update scripts, readme ([7ce79ec](https://github.com/waldronmatt/resume/commit/7ce79ec7b0df4430d974d563c4dd53c1395ba29c))
-* **package.json:** swap export command ordering ([a0ab103](https://github.com/waldronmatt/resume/commit/a0ab103d7acf7d7620590930297c41971f3d7442))
-* **resume.json:** remove superfluous words, updates ([b2a00de](https://github.com/waldronmatt/resume/commit/b2a00deac604a129bb1910605ec4a6eec59282ad))
-* **style.css:** break dates to newline on mobile ([45a855a](https://github.com/waldronmatt/resume/commit/45a855a2aff7dbd4c47f548cf1712bc6296e9d7d))
+* **global:** tweaks, revert cmd updates, commit pdf due to font type diff in browser ([96ce1a5](https://github.com/waldronmatt/resume/commit/96ce1a596f780e978bf5dcb6307f8e8d2edca150))
+
+## [1.1.5](https://github.com/waldronmatt/resume/compare/v1.1.4...v1.1.5) (2022-12-20)
+
+### Bug Fixes
+
+- **global:** add page break for resume pdf, open links in new tab, add resume download ([1e8ecfc](https://github.com/waldronmatt/resume/commit/1e8ecfc559d10d340a2808a49ca5a60b287c4919))
+- **global:** comment out unused sections for readability ([2ef84ab](https://github.com/waldronmatt/resume/commit/2ef84ab2c96d35591c50cd9e6c45a7f449b8b4bd))
+- **global:** update scripts, readme ([7ce79ec](https://github.com/waldronmatt/resume/commit/7ce79ec7b0df4430d974d563c4dd53c1395ba29c))
+- **package.json:** swap export command ordering ([a0ab103](https://github.com/waldronmatt/resume/commit/a0ab103d7acf7d7620590930297c41971f3d7442))
+- **resume.json:** remove superfluous words, updates ([b2a00de](https://github.com/waldronmatt/resume/commit/b2a00deac604a129bb1910605ec4a6eec59282ad))
+- **style.css:** break dates to newline on mobile ([45a855a](https://github.com/waldronmatt/resume/commit/45a855a2aff7dbd4c47f548cf1712bc6296e9d7d))
 
 ## [1.1.4](https://github.com/waldronmatt/resume/compare/v1.1.3...v1.1.4) (2022-12-16)
 
