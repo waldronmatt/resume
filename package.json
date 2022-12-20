@@ -4,8 +4,10 @@
   "description": "The code for my resume.",
   "main": "index.js",
   "scripts": {
-    "dev": "resume serve --theme . --resume src/resume.json",
-    "build": "resume export --theme . ./public/index.html --resume src/resume.json",
+    "dev": "yarn serve && yarn export",
+    "build": "yarn compile && yarn export",
+    "serve": "resume serve --theme . --resume src/resume.json",
+    "compile": "resume export --theme . ./public/index.html --resume src/resume.json",
     "export": "resume export public/resume.pdf --theme . --resume src/resume.json",
     "bootstrap:ci": "yarn install --frozen-lockfile --ignore-engines",
     "test": "echo \"Error: no test specified\" && exit 1",

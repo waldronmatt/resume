@@ -23,22 +23,34 @@ yarn prepare
 Serve resume using this project's theme for development builds.
 
 ```bash
-yarn dev
+yarn serve
 ```
 
-Export resume as an `.html` using this project's theme under `public/` for production builds (Netlify).
+Export resume as an `.html` using this project's theme under `public/`.
 
 ```bash
-yarn build
+yarn compile
 ```
-
-**Note:** Configure script in Netlify to auto-run via push to `main` branch.
 
 Export resume as a `.pdf` named 'resume' under `public/`.
 
 ```bash
 yarn export
 ```
+
+Runs `yarn serve` and `yarn export` for development builds.
+
+```bash
+yarn build
+```
+
+Runs `yarn compile` and `yarn export` for production builds (Netlify).
+
+```bash
+yarn build
+```
+
+**Note:** Configure script in Netlify to auto-run via push to `main` branch.
 
 ## Commands
 
