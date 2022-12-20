@@ -48,11 +48,15 @@
         {{#each profiles}}
           {{#if url}}
             <span class='url'>
-              <a href='{{url}}'>{{network}}</a>
+              <a href='{{url}}' target="_blank">{{network}}</a>
             </span>
             {{#unless @last}}<span class='divider'>|</span>{{/unless}}
           {{/if}}
         {{/each}}
+      {{/if}}
+      {{#if resume}}
+        <span class='divider'>|</span>
+        <a class='resume' href="./resume.pdf" target="_blank" download>{{resume}}</a>
       {{/if}}
     </div>
   </div>
@@ -80,6 +84,11 @@
     </div>
     <div class='sectionContent'>
       {{#each resume.work}}
+      {{#if breakBefore}}
+        <section class="item page-break">
+      {{else}}
+        <section class="item">
+      {{/if}}
 			<div class="jobBlock">
 	      <div class='blockHeader'>
 	        <span class='title'>
@@ -159,6 +168,11 @@
     </div>
     <div class='sectionContent'>
         {{#each resume.certificates}}
+        {{#if breakBefore}}
+          <section class="item page-break">
+        {{else}}
+          <section class="item">
+        {{/if}}
         <div class='blockHeader'>
         <span class='title'>
             {{#if name}}{{name}}{{/if}}{{#if issuer}}, {{issuer}}{{/if}}
@@ -258,6 +272,11 @@
     </div>
     <div class='sectionContent'>
       {{#each resume.education}}
+      {{#if breakBefore}}
+        <section class="item page-break">
+      {{else}}
+        <section class="item">
+      {{/if}}
       <div class='educationBlock'>
         <span class='title'>
           {{#if institution}}{{institution}}{{/if}}
@@ -268,7 +287,10 @@
         </span>
         {{/if}}
         <div class=''>
-          {{#if studyType}}{{studyType}} {{/if}} in {{#if area}}{{area}}{{/if}}{{#if subarea}}, {{subarea}}{{/if}}{{#if gpa}}, GPA: {{gpa}}{{/if}}
+          {{#if studyType}}{{studyType}} {{/if}} in {{#if area}}{{area}}{{/if}}{{#if gpa}}, GPA: {{gpa}}{{/if}}
+        </div>
+        <div class=''>
+          {{#if subarea}}{{subarea}}{{/if}}
         </div>
         {{#if courses.length}}
         <div id='coursesBlock'>

@@ -112,6 +112,11 @@ a {
   page-break-inside: avoid;
 }
 
+.page-break {
+  /* margin-top: 10px; */
+  page-break-before: always;
+}
+
 /* Media Queries */
 @media only screen and (max-width: 767px) {
   body {
