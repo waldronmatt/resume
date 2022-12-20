@@ -2,7 +2,7 @@
   "basics": {
     "name": "Matthew Waldron",
     "label": "Front-end Developer",
-    "email": "contact@waldronmatthew.com",
+    "email": "Contact",
     "profiles": [
       {
         "network": "LinkedIn",
@@ -12,7 +12,8 @@
         "network": "Website",
         "url": "https://www.waldronmatthew.com"
       }
-    ]
+    ],
+    "resume": "Download Resume"
   },
   "work": [
     {
@@ -21,16 +22,16 @@
       "website": "",
       "startDate": "Sep. 2020",
       "endDate": "Present",
-      "summary": "Lead developer for the Cigna.com Redesign developing web components and apps used in site-wide initiatives serving millions of visitors including Medicare, Open Enrollment, and Plan Finder. Development efforts resulted in a 38% increase of traffic to the shopping experience and a 67% reduction of accessibility issues.",
+      "summary": "Lead developer for the Cigna.com Redesign developing web components and apps used in initiatives serving millions of visitors including Medicare, Open Enrollment, and Plan Finder. Development efforts resulted in a 38% increase of traffic to the shopping experience and a 67% reduction of accessibility issues.",
       "details": [
         {
-          "text": "Rebuilt several cigna.com applications using Lit, TypeScript, Sass, AWS Lambda, SES, S3, and Jest."
+          "text": "Rebuilt several cigna.com apps using Lit, TypeScript, Sass, AWS Lambda, SES, S3, and Jest."
         },
         {
-          "text": "Created a CI/CD pipeline for repo/monorepo publishing and versioning enabling code reusability and automated version tracking across projects."
+          "text": "Created a CI/CD pipeline for repos and monorepos enabling code reusability via publishing and automated version tracking across projects."
         },
         {
-          "text": "Increased reusability of our component library by 47% by using web standards to overcome encapsulation limitations."
+          "text": "Increased component library reusability by 47% by using web standards to overcome encapsulation limitations."
         },
         {
           "text": "Mentored junior developers in our tech stack and hosted education training sessions for scrum teams."
@@ -47,7 +48,7 @@
           "text": "Automated the medical data entry process by developing a claim form app that gives customers the option to file online using JavaScript/jQuery."
         },
         {
-          "text": "Integrated department's custom elasticsearch wrapper into 7 sites for improved UI and search results using Sass and JavaScript. Developed a Lambda integration to support private indexing for 2 internal sites."
+          "text": "Integrated department's elasticsearch wrapper into 7 sites for improved UI and search results using Sass and JavaScript/jQuery. Developed a Lambda integration to support private indexing for 2 internal sites."
         },
         {
           "text": "Refactored department’s file search app from Perl to Node.js for improved code maintainability."
@@ -64,7 +65,7 @@
       "endDate": "Jan. 2019",
       "details": [
         {
-          "text": "Managed department’s website migration. Developed filtering tools, designed pages, and collaborated with departments on content management strategies."
+          "text": "Managed team’s website migration. Developed filtering tools, designed pages, and collaborated with departments on content management strategies."
         },
         {
           "text": "Liaison for Incident Response teams. Triaged software upgrade issues to prevent disruptions to critical resolution processes."
@@ -97,10 +98,11 @@
     {
       "institution": "Central Connecticut State University",
       "area": "Networking Information Technology",
-      "subarea": "Minor in MIS",
+      "subarea": "Minor in Management Information Systems",
       "studyType": "Bachelor of Science"
     },
     {
+      "breakBefore": true,
       "institution": "Northwestern Connecticut Community College",
       "area": "Computer Systems Technology",
       "studyType": "Associate of Science"
