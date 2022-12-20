@@ -36,11 +36,11 @@ a {
   -webkit-box-shadow: 2px 2px 4px #aaa;
 }
 
-.coursesList {
+/* .coursesList {
   width: 28%;
   vertical-align: top;
   display: inline-block;
-}
+} */
 
 .largeFont {
   all: unset;

@@ -5,9 +5,9 @@ COURSES_COLUMNS = 3;
 
 PREPEND_SUMMARY_CATEGORIES = [
   'work',
-  'volunteer',
-  'awards',
-  'publications',
+  // 'volunteer',
+  // 'awards',
+  // 'publications',
   'certificates',
 ];
 
