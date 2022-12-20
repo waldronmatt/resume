@@ -48,7 +48,7 @@
         {{#each profiles}}
           {{#if url}}
             <span class='url'>
-              <a href='{{url}}' target="_blank">{{network}}</a>
+              <a href='{{url}}' target="_blank" noopener noreferrer>{{network}}</a>
             </span>
             {{#unless @last}}<span class='divider'>|</span>{{/unless}}
           {{/if}}
@@ -102,7 +102,7 @@
 	      </div>
         {{#if website.length}}
           <div>
-            <a href='{{website}}'>{{website}}</a>
+            <a href='{{website}}' noopener noreferrer>{{website}}</a>
           </div>
         {{/if}}
 	      {{#if highlights.length}}
@@ -144,7 +144,7 @@
       </div>
       {{#if website}}
       <div class='website'>
-        <a href='{{website}}'>{{website}}</a>
+        <a href='{{website}}' noopener noreferrer>{{website}}</a>
       </div>
       {{/if}}
       {{#if highlights.length}}
@@ -167,7 +167,7 @@
         <span>CERTIFICATES</span>
     </div>
     <div class='sectionContent'>
-        {{#each resume.certificates}}
+      {{#each resume.certificates}}
         {{#if breakBefore}}
           <section class="item page-break">
         {{else}}
@@ -175,7 +175,7 @@
         {{/if}}
         <div class='blockHeader'>
         <span class='title'>
-            {{#if name}}{{name}}{{/if}}{{#if issuer}}, {{issuer}}{{/if}}
+          {{#if name}}{{name}}{{/if}}{{#if issuer}}, {{issuer}}{{/if}}
         </span>
         {{#if date}}
         <span class='date'>
@@ -185,7 +185,7 @@
         </div>
         {{#if url}}
         <div class='website'>
-        <a href='{{url}}'>{{url}}</a>
+          <a href='{{url}}' noopener noreferrer>{{url}}</a>
         </div>
         {{/if}}
         {{#if highlights.length}}
@@ -196,7 +196,7 @@
         </ul>
         {{/if}}
         {{#unless @last}}<div class='separator'></div>{{/unless}}
-        {{/each}}
+      {{/each}}
     </div>
     </div>
   <div class='sectionLine'></div>
@@ -248,7 +248,7 @@
         </span>
         {{/if}}
         {{#if website}}
-        <div class='website'><a href='{{website}}'>{{website}}</a></div>
+        <div class='website'><a href='{{website}}' noopener noreferrer>{{website}}</a></div>
         {{/if}}
         {{#if highlights.length}}
         <ul class='highlights'>
