@@ -4,8 +4,8 @@
   "description": "The code for my resume.",
   "main": "index.js",
   "scripts": {
-    "dev": "yarn serve && yarn export",
-    "build": "yarn compile && yarn export",
+    "dev": "yarn export && yarn serve",
+    "build": "yarn export && yarn compile",
     "serve": "resume serve --theme . --resume src/resume.json",
     "compile": "resume export --theme . ./public/index.html --resume src/resume.json",
     "export": "resume export public/resume.pdf --theme . --resume src/resume.json",
