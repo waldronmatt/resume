@@ -1,9 +1,15 @@
-## [1.1.8](https://github.com/waldronmatt/resume/compare/v1.1.7...v1.1.8) (2022-12-20)
+## [1.1.9](https://github.com/waldronmatt/resume/compare/v1.1.8...v1.1.9) (2022-12-26)
 
 
 ### Bug Fixes
 
-* **style.css:** prevent font scaling in ios landscape ([f329cc5](https://github.com/waldronmatt/resume/commit/f329cc5c2ca3feabaf65f77771106764ef3b592e))
+* **global:** comment out course list section ([4ce0eb2](https://github.com/waldronmatt/resume/commit/4ce0eb2c5be47b31b05d3396f3494136cd0cd78c))
+
+## [1.1.8](https://github.com/waldronmatt/resume/compare/v1.1.7...v1.1.8) (2022-12-20)
+
+### Bug Fixes
+
+- **style.css:** prevent font scaling in ios landscape ([f329cc5](https://github.com/waldronmatt/resume/commit/f329cc5c2ca3feabaf65f77771106764ef3b592e))
 
 ## [1.1.7](https://github.com/waldronmatt/resume/compare/v1.1.6...v1.1.7) (2022-12-20)
 
