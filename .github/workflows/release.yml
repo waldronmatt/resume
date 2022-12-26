@@ -36,12 +36,6 @@ jobs:
       - name: Lint
         run: yarn lint
 
-      # - name: Test (Uncomment to enable tests)
-      #   run: yarn test
-
-      # - name: Build (Uncomment to enable repository builds)
-      #   run: yarn build
-
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
