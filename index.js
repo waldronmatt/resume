@@ -11,33 +11,33 @@ PREPEND_SUMMARY_CATEGORIES = [
   'certificates',
 ];
 
-function validateArray(arr) {
-  return (
-    arr !== undefined && arr !== null && arr instanceof Array && arr.length > 0
-  );
-}
+// function validateArray(arr) {
+//   return (
+//     arr !== undefined && arr !== null && arr instanceof Array && arr.length > 0
+//   );
+// }
 
 function render(resume) {
   // Split courses into 3 columns
-  if (validateArray(resume.education)) {
-    resume.education.forEach(function (block) {
-      if (validateArray(block.courses)) {
-        splitCourses = [];
-        columnIndex = 0;
-        for (var i = 0; i < COURSES_COLUMNS; i++) {
-          splitCourses.push([]);
-        }
-        block.courses.forEach(function (course) {
-          splitCourses[columnIndex].push(course);
-          columnIndex++;
-          if (columnIndex >= COURSES_COLUMNS) {
-            columnIndex = 0;
-          }
-        });
-        block.courses = splitCourses;
-      }
-    });
-  }
+  // if (validateArray(resume.education)) {
+  //   resume.education.forEach(function (block) {
+  //     if (validateArray(block.courses)) {
+  //       splitCourses = [];
+  //       columnIndex = 0;
+  //       for (var i = 0; i < COURSES_COLUMNS; i++) {
+  //         splitCourses.push([]);
+  //       }
+  //       block.courses.forEach(function (course) {
+  //         splitCourses[columnIndex].push(course);
+  //         columnIndex++;
+  //         if (columnIndex >= COURSES_COLUMNS) {
+  //           columnIndex = 0;
+  //         }
+  //       });
+  //       block.courses = splitCourses;
+  //     }
+  //   });
+  // }
 
   PREPEND_SUMMARY_CATEGORIES.forEach(function (category) {
     if (resume[category] !== undefined) {
