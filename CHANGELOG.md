@@ -1,9 +1,15 @@
-## [1.1.9](https://github.com/waldronmatt/resume/compare/v1.1.8...v1.1.9) (2022-12-26)
+## [1.1.10](https://github.com/waldronmatt/resume/compare/v1.1.9...v1.1.10) (2023-01-03)
 
 
 ### Bug Fixes
 
-* **global:** comment out course list section ([4ce0eb2](https://github.com/waldronmatt/resume/commit/4ce0eb2c5be47b31b05d3396f3494136cd0cd78c))
+* **resume.json:** tweak summary ([f04ba59](https://github.com/waldronmatt/resume/commit/f04ba59c4f69833a00e61b5dbde4619fc47d545a))
+
+## [1.1.9](https://github.com/waldronmatt/resume/compare/v1.1.8...v1.1.9) (2022-12-26)
+
+### Bug Fixes
+
+- **global:** comment out course list section ([4ce0eb2](https://github.com/waldronmatt/resume/commit/4ce0eb2c5be47b31b05d3396f3494136cd0cd78c))
 
 ## [1.1.8](https://github.com/waldronmatt/resume/compare/v1.1.7...v1.1.8) (2022-12-20)
 
