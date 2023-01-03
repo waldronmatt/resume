@@ -22,7 +22,7 @@
       "website": "",
       "startDate": "Sep. 2020",
       "endDate": "Present",
-      "summary": "Lead developer for the Cigna.com Redesign developing web components and apps used in initiatives serving millions of visitors including Medicare, Open Enrollment, and Plan Finder. Development efforts resulted in a 38% increase of traffic to the shopping experience and a 67% reduction of accessibility issues.",
+      "summary": "Lead developer of cigna.com developing web components and apps used in initiatives serving millions of visitors including Medicare, Open Enrollment, and Plan Finder. Development efforts resulted in a 38% increase of traffic to the shopping experience and a 67% reduction of accessibility issues.",
       "details": [
         {
           "text": "Rebuilt several cigna.com apps using Lit, TypeScript, Sass, AWS Lambda, SES, S3, and Jest."
