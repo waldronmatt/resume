@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0dd95bb6-b8db-495a-ba1f-3ca495d99368/deploy-status)](https://app.netlify.com/sites/matthew-waldron-resume/deploys)
 
-My [personal resume](https://matthew-waldron-resume.netlify.app) built using [jsonresume](https://jsonresume.org/) and a modified version of the [onepage](https://www.npmjs.com/package/jsonresume-theme-onepage) theme.
+My [personal resume](https://resume.waldronmatthew.com) built using [jsonresume](https://jsonresume.org/) and a modified version of the [onepage](https://www.npmjs.com/package/jsonresume-theme-onepage) theme.
 
 ## Installation
 
