@@ -1,9 +1,15 @@
-# [1.2.0](https://github.com/waldronmatt/resume/compare/v1.1.10...v1.2.0) (2023-01-09)
+## [1.2.1](https://github.com/waldronmatt/resume/compare/v1.2.0...v1.2.1) (2023-01-09)
 
+
+### Bug Fixes
+
+* **manifest.json:** fix display property ([6d26fa8](https://github.com/waldronmatt/resume/commit/6d26fa8be18ce0f9917d448b69162e78213f799c))
+
+# [1.2.0](https://github.com/waldronmatt/resume/compare/v1.1.10...v1.2.0) (2023-01-09)
 
 ### Features
 
-* **public:** add pwa and favicon assets ([1377417](https://github.com/waldronmatt/resume/commit/137741735b41a9cbfe567f9246cca2a315655769))
+- **public:** add pwa and favicon assets ([1377417](https://github.com/waldronmatt/resume/commit/137741735b41a9cbfe567f9246cca2a315655769))
 
 ## [1.1.10](https://github.com/waldronmatt/resume/compare/v1.1.9...v1.1.10) (2023-01-03)
 
