@@ -1,9 +1,15 @@
-## [1.1.10](https://github.com/waldronmatt/resume/compare/v1.1.9...v1.1.10) (2023-01-03)
+# [1.2.0](https://github.com/waldronmatt/resume/compare/v1.1.10...v1.2.0) (2023-01-09)
 
+
+### Features
+
+* **public:** add pwa and favicon assets ([1377417](https://github.com/waldronmatt/resume/commit/137741735b41a9cbfe567f9246cca2a315655769))
+
+## [1.1.10](https://github.com/waldronmatt/resume/compare/v1.1.9...v1.1.10) (2023-01-03)
 
 ### Bug Fixes
 
-* **resume.json:** tweak summary ([f04ba59](https://github.com/waldronmatt/resume/commit/f04ba59c4f69833a00e61b5dbde4619fc47d545a))
+- **resume.json:** tweak summary ([f04ba59](https://github.com/waldronmatt/resume/commit/f04ba59c4f69833a00e61b5dbde4619fc47d545a))
 
 ## [1.1.9](https://github.com/waldronmatt/resume/compare/v1.1.8...v1.1.9) (2022-12-26)
 
