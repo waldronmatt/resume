@@ -1,7 +1,7 @@
 {
   "name": "Matthew Waldron Resume",
   "short_name": "M.W. Resume",
-  "display": "Matthew Waldron Resume",
+  "display": "standalone",
   "start_url": "./?utm_source=pwa_install",
   "scope": ".",
   "theme_color": "#fff",
