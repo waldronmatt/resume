@@ -4,7 +4,7 @@
   "display": "standalone",
   "start_url": "./?utm_source=pwa_install",
   "scope": ".",
-  "theme_color": "#fff",
+  "theme_color": "#000",
   "background_color": "#fff",
   "icons": [
     {
