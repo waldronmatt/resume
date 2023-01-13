@@ -1,9 +1,15 @@
-## [1.2.1](https://github.com/waldronmatt/resume/compare/v1.2.0...v1.2.1) (2023-01-09)
+## [1.2.2](https://github.com/waldronmatt/resume/compare/v1.2.1...v1.2.2) (2023-01-13)
 
 
 ### Bug Fixes
 
-* **manifest.json:** fix display property ([6d26fa8](https://github.com/waldronmatt/resume/commit/6d26fa8be18ce0f9917d448b69162e78213f799c))
+* **manifest.json:** change theme color to black ([53c0efd](https://github.com/waldronmatt/resume/commit/53c0efdc9e2bf562d3f9971d507ec7fd12dbcc3a))
+
+## [1.2.1](https://github.com/waldronmatt/resume/compare/v1.2.0...v1.2.1) (2023-01-09)
+
+### Bug Fixes
+
+- **manifest.json:** fix display property ([6d26fa8](https://github.com/waldronmatt/resume/commit/6d26fa8be18ce0f9917d448b69162e78213f799c))
 
 # [1.2.0](https://github.com/waldronmatt/resume/compare/v1.1.10...v1.2.0) (2023-01-09)
 
