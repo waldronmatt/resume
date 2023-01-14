@@ -1,9 +1,15 @@
-## [1.2.2](https://github.com/waldronmatt/resume/compare/v1.2.1...v1.2.2) (2023-01-13)
+## [1.2.3](https://github.com/waldronmatt/resume/compare/v1.2.2...v1.2.3) (2023-01-14)
 
 
 ### Bug Fixes
 
-* **manifest.json:** change theme color to black ([53c0efd](https://github.com/waldronmatt/resume/commit/53c0efdc9e2bf562d3f9971d507ec7fd12dbcc3a))
+* **resume.hbs:** add back theme meta to pass lighthouse audit ([daa0043](https://github.com/waldronmatt/resume/commit/daa0043aefdcd787aebd0d6887488db4d5f51512))
+
+## [1.2.2](https://github.com/waldronmatt/resume/compare/v1.2.1...v1.2.2) (2023-01-13)
+
+### Bug Fixes
+
+- **manifest.json:** change theme color to black ([53c0efd](https://github.com/waldronmatt/resume/commit/53c0efdc9e2bf562d3f9971d507ec7fd12dbcc3a))
 
 ## [1.2.1](https://github.com/waldronmatt/resume/compare/v1.2.0...v1.2.1) (2023-01-09)
 
