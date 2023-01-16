@@ -25,10 +25,10 @@
       "summary": "Lead developer of cigna.com developing web components and apps used in initiatives serving millions of visitors including Medicare, Open Enrollment, and Plan Finder. Development efforts resulted in a 38% increase of traffic to the shopping experience and a 67% reduction of accessibility issues.",
       "details": [
         {
-          "text": "Rebuilt several cigna.com apps using Lit, TypeScript, Sass, AWS Lambda, SES, S3, and Jest."
+          "text": "Rebuilt several cigna.com apps from JavaScript/jQuery and Bootstrap to Lit, TypeScript, Sass, AWS Lambda, S3, and Jest."
         },
         {
-          "text": "Created a CI/CD pipeline for repos and monorepos enabling code reusability via publishing and automated version tracking across projects."
+          "text": "Created an automated CI/CD pipeline for repos and monorepos enabling code reusability via publishing and version tracking across repositories."
         },
         {
           "text": "Increased component library reusability by 47% by using web standards to overcome encapsulation limitations."
@@ -48,10 +48,10 @@
           "text": "Automated the medical data entry process by developing a claim form app that gives customers the option to file online using JavaScript/jQuery."
         },
         {
-          "text": "Integrated department's elasticsearch wrapper into 7 sites for improved UI and search results using Sass and JavaScript/jQuery. Developed a Lambda integration to support private indexing for 2 internal sites."
+          "text": "Integrated department's elasticsearch wrapper into 7 sites for improved UI and search results using Sass and JavaScript/jQuery. Developed a Lambda integration to support private indexing for 2 sites."
         },
         {
-          "text": "Refactored department’s file search app from Perl to Node.js for improved code maintainability."
+          "text": "Refactored department’s file search app from Perl to Node.js for improved code maintainability. Efforts enabled team to leverage code for new apps."
         },
         {
           "text": "Oversaw direction, managed budgets, and conducted interviews for networking positions across 6 offices for the Technology Early Career Program (TECDP)."
@@ -71,10 +71,10 @@
           "text": "Liaison for Incident Response teams. Triaged software upgrade issues to prevent disruptions to critical resolution processes."
         },
         {
-          "text": "Transformed conferencing data into population and historical usage metrics used by the department to make decisions on funding allocations."
+          "text": "Transformed conferencing data into population and historical usage metrics used by the department to make decisions on funding allocations across 25 offices."
         },
         {
-          "text": "Resolved over 2,000 emails in 7 months for conferencing software. Hosted 80 support meetings and 15 training sessions for hundreds of employees."
+          "text": "Resolved over 2,000 emails in 6 months for conferencing software. Hosted 80 support meetings and 15 training sessions for hundreds of employees."
         },
         {
           "text": "Organized 30 events for TECDP colleagues to meet with peers, mentors, and leadership."
