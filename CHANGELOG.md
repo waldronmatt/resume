@@ -1,9 +1,16 @@
-## [1.2.3](https://github.com/waldronmatt/resume/compare/v1.2.2...v1.2.3) (2023-01-14)
+## [1.2.4](https://github.com/waldronmatt/resume/compare/v1.2.3...v1.2.4) (2023-01-21)
 
 
 ### Bug Fixes
 
-* **resume.hbs:** add back theme meta to pass lighthouse audit ([daa0043](https://github.com/waldronmatt/resume/commit/daa0043aefdcd787aebd0d6887488db4d5f51512))
+* **resume.json:** add aws developer associate cert ([5011c8c](https://github.com/waldronmatt/resume/commit/5011c8cf3a16f6b7ec7b8922519e129f4492ab4b))
+* **resume.json:** add context to some bullets, update numbers and wording ([5c7fe1a](https://github.com/waldronmatt/resume/commit/5c7fe1a7f460153dfe84b30f00dfcca8ed2de00d))
+
+## [1.2.3](https://github.com/waldronmatt/resume/compare/v1.2.2...v1.2.3) (2023-01-14)
+
+### Bug Fixes
+
+- **resume.hbs:** add back theme meta to pass lighthouse audit ([daa0043](https://github.com/waldronmatt/resume/commit/daa0043aefdcd787aebd0d6887488db4d5f51512))
 
 ## [1.2.2](https://github.com/waldronmatt/resume/compare/v1.2.1...v1.2.2) (2023-01-13)
 
