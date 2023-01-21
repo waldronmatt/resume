@@ -110,6 +110,10 @@
   ],
   "certificates": [
     {
+      "name": "AWS Certified Developer - Associate",
+      "date": "2023"
+    },
+    {
       "name": "AWS Certified Cloud Practitioner",
       "date": "2021"
     }
