@@ -189,6 +189,11 @@ a {
     -webkit-box-shadow: none;
   }
 
+  .page-break {
+    /* margin-top: 10px; */
+    page-break-before: unset;
+  }
+
   a {
     color: black;
   }
