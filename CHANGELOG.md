@@ -1,10 +1,16 @@
-## [1.2.4](https://github.com/waldronmatt/resume/compare/v1.2.3...v1.2.4) (2023-01-21)
+## [1.2.5](https://github.com/waldronmatt/resume/compare/v1.2.4...v1.2.5) (2023-01-31)
 
 
 ### Bug Fixes
 
-* **resume.json:** add aws developer associate cert ([5011c8c](https://github.com/waldronmatt/resume/commit/5011c8cf3a16f6b7ec7b8922519e129f4492ab4b))
-* **resume.json:** add context to some bullets, update numbers and wording ([5c7fe1a](https://github.com/waldronmatt/resume/commit/5c7fe1a7f460153dfe84b30f00dfcca8ed2de00d))
+* **style.css:** fix page break on print css mode ([785a3e8](https://github.com/waldronmatt/resume/commit/785a3e87350ddaca4caeb19246383658ac57d487))
+
+## [1.2.4](https://github.com/waldronmatt/resume/compare/v1.2.3...v1.2.4) (2023-01-21)
+
+### Bug Fixes
+
+- **resume.json:** add aws developer associate cert ([5011c8c](https://github.com/waldronmatt/resume/commit/5011c8cf3a16f6b7ec7b8922519e129f4492ab4b))
+- **resume.json:** add context to some bullets, update numbers and wording ([5c7fe1a](https://github.com/waldronmatt/resume/commit/5c7fe1a7f460153dfe84b30f00dfcca8ed2de00d))
 
 ## [1.2.3](https://github.com/waldronmatt/resume/compare/v1.2.2...v1.2.3) (2023-01-14)
 
