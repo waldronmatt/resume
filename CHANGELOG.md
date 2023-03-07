@@ -1,9 +1,15 @@
-## [1.2.5](https://github.com/waldronmatt/resume/compare/v1.2.4...v1.2.5) (2023-01-31)
+## [1.2.6](https://github.com/waldronmatt/resume/compare/v1.2.5...v1.2.6) (2023-03-07)
 
 
 ### Bug Fixes
 
-* **style.css:** fix page break on print css mode ([785a3e8](https://github.com/waldronmatt/resume/commit/785a3e87350ddaca4caeb19246383658ac57d487))
+* **global:** remove resume content ([dca4963](https://github.com/waldronmatt/resume/commit/dca4963a7ab95f67826294c8b4df79fb67150a18))
+
+## [1.2.5](https://github.com/waldronmatt/resume/compare/v1.2.4...v1.2.5) (2023-01-31)
+
+### Bug Fixes
+
+- **style.css:** fix page break on print css mode ([785a3e8](https://github.com/waldronmatt/resume/commit/785a3e87350ddaca4caeb19246383658ac57d487))
 
 ## [1.2.4](https://github.com/waldronmatt/resume/compare/v1.2.3...v1.2.4) (2023-01-21)
 
