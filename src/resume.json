@@ -1,135 +1,56 @@
 {
   "basics": {
-    "name": "Matthew Waldron",
-    "label": "Front-end Developer",
-    "email": "Contact",
+    "name": "",
+    "label": "",
+    "email": "",
     "profiles": [
       {
-        "network": "LinkedIn",
-        "url": "https://www.linkedin.com/in/waldronmatt"
+        "network": "",
+        "url": ""
       },
       {
-        "network": "Website",
-        "url": "https://www.waldronmatthew.com"
+        "network": "",
+        "url": ""
       }
     ],
-    "resume": "PDF Version"
+    "resume": ""
   },
   "work": [
     {
-      "company": "Cigna",
-      "position": "Application Development Advisor",
+      "company": "",
+      "position": "",
       "website": "",
-      "startDate": "Sep. 2020",
-      "endDate": "Present",
-      "summary": "Lead developer of cigna.com developing web components and apps used in initiatives serving millions of visitors including Medicare, Open Enrollment, and Plan Finder. Development efforts resulted in a 38% increase of traffic to the shopping experience and a 67% reduction of accessibility issues.",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "details": [
         {
-          "text": "Rebuilt several cigna.com apps from JavaScript/jQuery and Bootstrap to Lit, TypeScript, Sass, AWS Lambda, S3, and Jest."
+          "text": ""
         },
         {
-          "text": "Created an automated CI/CD pipeline for repos and monorepos enabling code reusability via publishing and version tracking across repositories."
-        },
-        {
-          "text": "Increased component library reusability by 47% by using web standards to overcome encapsulation limitations."
-        },
-        {
-          "text": "Mentored junior developers in our tech stack and hosted education training sessions for scrum teams."
-        }
-      ]
-    },
-    {
-      "company": "Cigna",
-      "position": "Application Development Lead Analyst",
-      "startDate": "Jan. 2019",
-      "endDate": "Sep. 2020",
-      "details": [
-        {
-          "text": "Automated the medical data entry process by developing a claim form app that gives customers the option to file online using JavaScript/jQuery."
-        },
-        {
-          "text": "Integrated department's elasticsearch wrapper into 7 sites for improved UI and search results using Sass and JavaScript/jQuery. Developed a Lambda integration to support private indexing for 2 sites."
-        },
-        {
-          "text": "Refactored department’s file search app from Perl to Node.js for improved code maintainability. Efforts enabled team to leverage code for new apps."
-        },
-        {
-          "text": "Oversaw direction, managed budgets, and conducted interviews for networking positions across 6 offices for the Technology Early Career Program (TECDP)."
-        }
-      ]
-    },
-    {
-      "company": "Cigna",
-      "position": "Voice Engineer Analyst",
-      "startDate": "Jul. 2017",
-      "endDate": "Jan. 2019",
-      "details": [
-        {
-          "text": "Managed team’s website migration. Developed filtering tools, designed pages, and collaborated with departments on content management strategies."
-        },
-        {
-          "text": "Liaison for Incident Response teams. Triaged software upgrade issues to prevent disruptions to critical resolution processes."
-        },
-        {
-          "text": "Transformed conferencing data into population and historical usage metrics used by the department to make decisions on funding allocations across 25 offices."
-        },
-        {
-          "text": "Resolved over 2,000 emails in 6 months for conferencing software. Hosted 80 support meetings and 15 training sessions for hundreds of employees."
-        },
-        {
-          "text": "Organized 30 events for TECDP colleagues to meet with peers, mentors, and leadership."
-        }
-      ]
-    },
-    {
-      "company": "Cigna",
-      "position": "Infrastructure Engineer Intern",
-      "startDate": "Jun. 2016",
-      "endDate": "Aug. 2016",
-      "summary": "Analyzed power requirements, deployed hardware, and supervised data center infrastructure deployments for contractors.",
-      "details": [
-        {
-          "text": "Won 1st place with a team on the TECDP Intern Project. Presented a prototype for a mental health app."
+          "text": ""
         }
       ]
     }
   ],
   "education": [
     {
-      "institution": "Central Connecticut State University",
-      "area": "Networking Information Technology",
-      "subarea": "Minor in Management Information Systems",
-      "studyType": "Bachelor of Science"
-    },
-    {
-      "breakBefore": true,
-      "institution": "Northwestern Connecticut Community College",
-      "area": "Computer Systems Technology",
-      "studyType": "Associate of Science"
+      "institution": "",
+      "area": "",
+      "subarea": "",
+      "studyType": ""
     }
   ],
   "certificates": [
     {
-      "name": "AWS Certified Developer - Associate",
-      "date": "2023"
-    },
-    {
-      "name": "AWS Certified Cloud Practitioner",
-      "date": "2021"
+      "name": "",
+      "date": ""
     }
   ],
   "skills": [
     {
-      "name": "Daily Experience",
-      "details": [
-        { "text": "TypeScript" },
-        { "text": "JavaScript" },
-        { "text": "Lit" },
-        { "text": "Sass/CSS" },
-        { "text": "HTML" },
-        { "text": "Webpack" },
-        { "text": "Git" }
-      ]
+      "name": "",
+      "details": [{ "text": "" }, { "text": "" }, { "text": "" }]
     }
   ]
 }
